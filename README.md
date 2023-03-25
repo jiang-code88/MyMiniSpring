@@ -1,7 +1,11 @@
 # MyMiniSpring
 A project of mini spring
 
+## branch Develop
 
+每个开发者在主分支 main 上建立一个自己的开发分支进行，并定期合入 mian 主分支。
+
+开发分支的命名格式：`develop-<you name>`，例如：`develop-jrk`
 
 ## Commit message standard 
 
